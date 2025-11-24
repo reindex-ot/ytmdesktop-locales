@@ -17,7 +17,7 @@
   "LABEL_GUEST": "ゲスト",
   "LABEL_LOADING": "読み込み中...",
   "LABEL_LYRICS": "歌詞",
-  "LABEL_LYRICS_GENIUS_AUTH": "Genius アカウントを YTMDesktop で認証 (http://localhost:9864/login) または「設定」>「連携」>「Genius の歌詞を有効」から Genius による歌詞を無効にしてください",
+  "LABEL_LYRICS_GENIUS_AUTH": "Genius アカウントを YTMDesktop で認証 (http://localhost:9864/login) または「設定」>「統合」>「Genius の歌詞を有効」から Genius による歌詞を無効にしてください",
   "LABEL_LYRICS_NOT_FOUND": "歌詞がありません",
   "LABEL_MINIPLAYER": "ミニプレーヤー",
   "LABEL_NOTIFICATION_DISLIKED": "この曲に低評価を付けました",
